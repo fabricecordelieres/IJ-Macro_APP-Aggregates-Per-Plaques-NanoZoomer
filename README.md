@@ -16,6 +16,7 @@ All the data should be extracted within 5 anatomical regions to be user-drawn: m
 ## What does it do ?
 
 This macro comes in the form of a toolset which graphical user interface allows performing the 4 steps of analysis:
+
 ![GUI_Toolset](/Images/GUI_Toolset.jpg)
 
 ### Step 1: Get ROIs to extract
