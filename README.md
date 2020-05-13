@@ -133,7 +133,7 @@ This macro comes in the form of a toolset which graphical user interface allows 
 7. From the plaques ROI, a new image is generated as a mask, where the expanded aggregates surface is turned on: it displays the considered surface of the plaques and its surroundings.
 8. This images (blue) is overlayed to the plaques mask (red) and the aggregates mask (green) as a composite image that will be saved in the output folder.
 
-##How to use it ?
+## How to use it ?
 ___Versions of the software used___
 
 Fiji, ImageJ 2.0.0-rc-69/1.52n
