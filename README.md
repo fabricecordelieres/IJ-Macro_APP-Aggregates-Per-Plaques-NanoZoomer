@@ -16,7 +16,7 @@ All the data should be extracted within 5 anatomical regions to be user-drawn: m
 ## What does it do ?
 
 This macro comes in the form of a toolset which graphical user interface allows performing the 4 steps of analysis:
-![GUI_Toolset][/Images/GUI_Toolset.jpg]
+![GUI_Toolset](/Images/GUI_Toolset.jpg)
 
 ### Step 1: Get ROIs to extract
 1. The user is invited to point at the input folder containing the NDPIS files to analyze, and an output folder in which to save the data.
@@ -43,7 +43,7 @@ This macro comes in the form of a toolset which graphical user interface allows 
     4. The content of the ROI Manager is saved in the output folder for later use.
 
 ### Step 4: Analyze
-![GUI_Analyze][/Images/GUI_Analyze.png]
+![GUI_Analyze](/Images/GUI_Analyze.png)
 1. The user is first presented with a graphical interface on which some parameters might be set:
     1. Median radius (default: 2 pixels)
     2. Subtract background radius (default: 25 pixels)
